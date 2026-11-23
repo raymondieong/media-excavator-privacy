@@ -40,12 +40,6 @@ Chrome may independently retain its native download history, browser caches and 
 
 You can close the side panel to stop discovery, cancel an active download, change Chrome's site-access permissions, clear local history, or remove the extension. Withholding site access may prevent scanning or downloads.
 
-## Limited Use and changes
-
-Media Excavator's use of information received from Chrome APIs adheres to the Chrome Web Store User Data Policy, including the Limited Use requirements. Information is used only for the extension's media discovery, download and related user-facing features. It is not used for personalized advertising, credit decisions, unrelated profiling, or sale to third parties.
-
-If data practices change, this policy will be updated. Material changes will also be disclosed through the extension as required before the changed handling begins.
-
 ## Policy hosting and contact
 
 The public version of this policy is hosted on GitHub Pages. Visiting it makes a request to GitHub, which may process normal hosting request logs under GitHub's own privacy statement. This page contains no analytics, tracking scripts, third-party fonts or embedded media.
@@ -54,4 +48,4 @@ For privacy questions, contact the maintainer through https://github.com/raymond
 
 ## Policy updates
 
-This policy will be updated when the extension’s data practices change. The date above identifies the current version. Changes must be reflected in the extension and its Chrome Web Store disclosures.
+This policy will be updated when the extension’s data practices change. The date above identifies the current version. Material changes will also be disclosed through the extension as required before the changed handling begins, and reflected in the Chrome Web Store disclosures.
